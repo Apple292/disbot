@@ -9,6 +9,6 @@ Discord client for bot accounts
 </p>
 
 <h2>Instructions</h2>
-<ol>download the IPA or APK and install it on your device</ol>
-<ol>download the zip file containing the server and edit the .env file to what you need, then run the js file</ol>
+1. download the IPA or APK and install it on your device
+2. download the zip file containing the server and edit the .env file to what you need, then run the js file
 
