@@ -1,6 +1,5 @@
 # disbot
-<title>Discord client for bot accounts</title>
--------------------------------
+Discord client for bot accounts
 
 <h1>Screenshots</h1>
 <p>
